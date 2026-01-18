@@ -13,3 +13,9 @@ The game presents True/False questions to the user, evaluates answers, and track
 - Clean and beginner-friendly code structure
 
 ## 🧱 Project Structure
+├── main.py # Entry point of the application
+├── data.py # Question data source
+├── question_model.py # Question class
+├── quiz_brain.py # Quiz logic and score handling
+├── README.md
+
